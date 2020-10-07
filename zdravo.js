@@ -1,3 +1,3 @@
 console.log("Zdravo na site");
 console.log("Jas sum Petar");
-console.log("nov tekst");
+console.log("nov tekst asdd");
